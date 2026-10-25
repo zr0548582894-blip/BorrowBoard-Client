@@ -1,5 +1,5 @@
 import type { DateTimeString } from './common';
-export type Role = 'USER' | 'ADMIN';
+export type Role = 'USER' | 'ADMIN'|'GUEST';
 
 export interface User {
   id: number;
@@ -46,3 +46,10 @@ export interface UpdateMeInput {
   phone?: string;
   city?: string | null;
 }
+
+export type UserContextType = {
+  user: User | null;
+  isLoggedIn:boolean,
+  login:(user:User)=>void,
+  logout:()=>void
+};
