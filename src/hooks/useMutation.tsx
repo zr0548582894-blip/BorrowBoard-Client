@@ -12,15 +12,15 @@ import { addWantedItem, editWantedItem, getMyWantedItems } from "../api/wantedIt
 import type { WantedItemInput } from "../types/wantedItem";
 import { blockUser, unblockUser } from "../api/admin";
 import { addCatergories, delCatergories, editCatergories } from "../api/category";
-import type { Category, CategoryInput } from "../types/category";
+import type { CategoryInput } from "../types/category";
 
 
 
 export const actionByStatus = {
-    APPROVED: approveBorrowRequest,
-    REJECTED: rejectBorrowRequest,
-    CANCELLED: cancelBorrowRequest,
-    RETURNED: markBorrowReturned,
+  APPROVED: approveBorrowRequest,
+  REJECTED: rejectBorrowRequest,
+  CANCELLED: cancelBorrowRequest,
+  RETURNED: markBorrowReturned,
 };
 export const offerActionByStatus = {
   ACCEPTED: acceptOffer,
@@ -46,12 +46,13 @@ export const BorrowRequestUseMutation = (productId: number) => {
   });
 };
 
-export const offerUseMutation = (wantedItemsId: number) =>{
-    const queryClient = useQueryClient();
+export const offerUseMutation = (wantedItemsId: number) => {
+  const queryClient = useQueryClient();
   return useMutation({
     mutationFn: (data: OfferInput) => createOffer(wantedItemsId, data),
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["getMyOffers"] }),
-  })};
+  })
+};
 
 export const updateBorrowStatusUseMutation = () => {
   const queryClient = useQueryClient();
@@ -62,14 +63,14 @@ export const updateBorrowStatusUseMutation = () => {
   });
 };
 
-export const PouductFormUseMutation = (type:string,id:number) => {
+export const PouductFormUseMutation = (type: string, id: number) => {
   return useMutation({
-    mutationFn: (data:ProductInput) =>
-      {if(type=="add")
+    mutationFn: (data: ProductInput) => {
+      if (type == "add")
         return addProducts(data)
-        return editProducts(id,data)
-      }
-  
+      return editProducts(id, data)
+    }
+
   });
 };
 export const WantedItemFormUseMutation = (type: string, id: number) => {
@@ -96,18 +97,19 @@ export const GetMyWantedItemsUseQuery = (userId: number | undefined) =>
     queryKey: ["getMyWantedItems", userId],
     queryFn: getMyWantedItems,
   });
-  export const deleteProductUseMutation = () => {
+export const deleteProductUseMutation = () => {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: (id: number) => delProducts(id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["getMyProducts"] });
       queryClient.invalidateQueries({ queryKey: ["allProducts"] });
+      queryClient.invalidateQueries({ queryKey: ["adminProducts"] });
     },
   });
 };
 
-  export const BlockUser = () => {
+export const BlockUser = () => {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: (id: number) => blockUser(id),
@@ -117,7 +119,7 @@ export const GetMyWantedItemsUseQuery = (userId: number | undefined) =>
   });
 };
 
-  export const UnBlockUser = () => {
+export const UnBlockUser = () => {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: (id: number) => unblockUser(id),
@@ -127,7 +129,7 @@ export const GetMyWantedItemsUseQuery = (userId: number | undefined) =>
   });
 };
 
-  export const AddCatergoriesUseMutation = () => {
+export const AddCatergoriesUseMutation = () => {
   const queryClient = useQueryClient();
   return useMutation({
     mutationFn: (input: CategoryInput) => addCatergories(input),
@@ -140,10 +142,10 @@ export const GetMyWantedItemsUseQuery = (userId: number | undefined) =>
 
 
 
-  export const EditCatergoriesUseMutation = () => {
+export const EditCatergoriesUseMutation = () => {
   const queryClient = useQueryClient();
   return useMutation({
-    mutationFn: ({ id, name }: { id: number; name: string }) => editCatergories({name},id),
+    mutationFn: ({ id, name }: { id: number; name: string }) => editCatergories({ name }, id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["categories"] });
     },
@@ -151,10 +153,10 @@ export const GetMyWantedItemsUseQuery = (userId: number | undefined) =>
 };
 
 
-  export const DelCatergoriesUseMutation = () => {
+export const DelCatergoriesUseMutation = () => {
   const queryClient = useQueryClient();
   return useMutation({
-    mutationFn: (id:number) => delCatergories(id),
+    mutationFn: (id: number) => delCatergories(id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["categories"] });
     },
