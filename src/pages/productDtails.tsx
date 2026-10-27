@@ -30,7 +30,7 @@ const ProductDtails = () => {
         {/* תמונה */}
         <div className="relative bg-[#f6efe9]">
           <img
-            src={data.imageUrl ? data.imageUrl: "/NO_IMG.jpg"}
+            src={!data.imageUrl ? "/NO_IMG.jpg" : data.imageUrl.startsWith("http") ? data.imageUrl : `${import.meta.env.VITE_API_URL}${data.imageUrl}`}
             onError={(e) => { e.currentTarget.src = "/NO_IMG.jpg"; }}
             alt={data.name}
             className="h-72 w-full object-cover md:h-full"

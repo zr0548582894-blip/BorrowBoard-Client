@@ -12,7 +12,7 @@ return (
         <div className="card-media relative overflow-hidden rounded-[1.2rem] bg-[var(--accent-soft)]">
             <span aria-hidden className="absolute -left-6 -top-6 z-10 h-16 w-16 rotate-12 rounded-2xl bg-[var(--accent)] opacity-90 transition-transform duration-700 group-hover:-translate-x-1 group-hover:translate-y-1 group-hover:rotate-45" />
             <img
-                src={p.imageUrl ? p.imageUrl: "/NO_IMG.jpg"}
+                src={!p.imageUrl ? "/NO_IMG.jpg" : p.imageUrl.startsWith("http") ? p.imageUrl : `${import.meta.env.VITE_API_URL}${p.imageUrl}`}
                 alt=""
                 className="aspect-[4/3] w-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:scale-[1.07]"
             />
