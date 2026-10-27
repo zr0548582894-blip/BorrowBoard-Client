@@ -36,7 +36,7 @@ const routs=createBrowserRouter(
                     element:<UserProtected><ProductForm /></UserProtected>
                 },
                 {
-                    path:"/products/id/edit",
+                    path:"/products/:id/edit",
                     element:<UserProtected><ProductForm /></UserProtected>
                 },
                 {
