@@ -33,7 +33,7 @@ const ProductDtails = () => {
             src={!data.imageUrl ? "/NO_IMG.jpg" : data.imageUrl.startsWith("http") ? data.imageUrl : `${import.meta.env.VITE_API_URL}${data.imageUrl}`}
             onError={(e) => { e.currentTarget.src = "/NO_IMG.jpg"; }}
             alt={data.name}
-            className="h-72 w-full object-cover md:h-full"
+            className="h-72 w-full bg-white object-contain p-6 md:h-full"
           />
           <span
             className={`absolute right-4 top-4 rounded-full px-3 py-1 text-xs font-bold shadow-sm ${available ? "bg-[#e3f4ea] text-[#2f7a4f]" : "bg-[#fbe6df] text-[#b5513d]"

@@ -38,7 +38,7 @@ const WantedItemDtails = () => {
             src={imageSrc}
             onError={(e) => { e.currentTarget.src = "/NO_IMG.jpg"; }}
             alt={data.title}
-            className="h-72 w-full object-cover md:h-full"
+            className="h-72 w-full bg-white object-contain p-6 md:h-full"
           />
           <span
             className={`absolute right-4 top-4 rounded-full px-3 py-1 text-xs font-bold shadow-sm ${

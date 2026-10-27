@@ -14,12 +14,12 @@ return (
             <img
                 src={!p.imageUrl ? "/NO_IMG.jpg" : p.imageUrl.startsWith("http") ? p.imageUrl : `${import.meta.env.VITE_API_URL}${p.imageUrl}`}
                 alt=""
-                className="aspect-[4/3] w-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:scale-[1.07]"
+                className="aspect-[4/3] w-full bg-white object-contain p-3 transition-transform duration-700 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:scale-[1.07]"
             />
             <span aria-hidden className="pointer-events-none absolute inset-0 bg-gradient-to-t from-ink/35 via-transparent to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
 
             <span className="absolute bottom-2.5 right-2.5 z-10 max-w-[85%] truncate rounded-full bg-ink/85 px-3 py-1 text-[0.7rem] font-bold text-cream backdrop-blur-md">
-                {p.status}
+                {p.status === "AVAILABLE" ? "זמין" : "מושאל"}
             </span>
         </div>
 
