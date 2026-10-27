@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\bin\Debug\net6.0\Jagged_array.exe
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\bin\Debug\net6.0\Jagged_array.deps.json
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\bin\Debug\net6.0\Jagged_array.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\bin\Debug\net6.0\Jagged_array.dll
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\bin\Debug\net6.0\Jagged_array.pdb
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.dll
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\refint\Jagged_array.dll
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.pdb
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\Jagged_array.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\c#\Jagged_array\Jagged_array\obj\Debug\net6.0\ref\Jagged_array.dll

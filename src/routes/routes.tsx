@@ -12,6 +12,9 @@ import AdminDashboard from "../pages/adminDashboard";
 import AdminProducts from "../pages/adminProducts";
 import AdminUsers from "../pages/adminUsers";
 import NotFoundPage from "../pages/notFoundPage";
+import { AdminProtected, UserProtected } from "../components/protected";
+import WantedItemDtails from "../pages/wantedItemDetails";
+import AdminCategories from "../pages/adminCategories";
 
 
 const routs=createBrowserRouter(
@@ -30,11 +33,11 @@ const routs=createBrowserRouter(
                 },
                 {
                     path:"/products/new",
-                    element:<ProductForm/>
+                    element:<UserProtected><ProductForm /></UserProtected>
                 },
                 {
-                    path:"/products/:id/edit",
-                    element:<ProductForm/>
+                    path:"/products/id/edit",
+                    element:<UserProtected><ProductForm /></UserProtected>
                 },
                 {
                     path:"/wanted",
@@ -42,15 +45,15 @@ const routs=createBrowserRouter(
                 },
                 {
                     path:"/wanted/:id",
-                    element:<WantedItemForm/>
+                    element:<WantedItemDtails/>
                 },
                 {
                     path:"/wanted/new",
-                    element:<WantedItemForm/>
+                    element:<UserProtected><WantedItemForm/></UserProtected>
                 },
                 {
                     path:"/wanted/:id/edit",
-                    element:<WantedItemForm/>
+                    element:<UserProtected><WantedItemForm/></UserProtected>
                 },
                 {
                     path:"/login",
@@ -62,19 +65,23 @@ const routs=createBrowserRouter(
                 },
                 {
                     path:"/me",
-                    element:<Account/>
+                    element:<UserProtected><Account /></UserProtected>
                 },
                 {
                     path:"/admin",
-                    element:<AdminDashboard/>
+                    element:<AdminProtected><AdminDashboard/></AdminProtected>
                 },
                 {
                     path:"/admin/products",
-                    element:<AdminProducts/>
+                    element:<AdminProtected><AdminProducts/></AdminProtected>
                 },
                 {
                     path:"/admin/users",
-                    element:<AdminUsers/>
+                    element:<AdminProtected><AdminUsers/></AdminProtected>
+                },
+                                {
+                    path:"/admin/categories",
+                    element:<AdminProtected><AdminCategories/></AdminProtected>
                 },
                 {
                     path:"*",

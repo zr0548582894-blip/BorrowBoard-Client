@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\bin\Debug\net6.0\maat-test.exe
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\bin\Debug\net6.0\maat-test.deps.json
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\bin\Debug\net6.0\maat-test.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\bin\Debug\net6.0\maat-test.dll
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\bin\Debug\net6.0\maat-test.pdb
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.dll
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\refint\maat-test.dll
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.pdb
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\maat-test.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\c#\maat-test\maat-test\obj\Debug\net6.0\ref\maat-test.dll

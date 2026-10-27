@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\תכנות\c#\chek\chek\bin\Debug\net6.0\chek.exe
+D:\Users\User\Desktop\תכנות\c#\chek\chek\bin\Debug\net6.0\chek.deps.json
+D:\Users\User\Desktop\תכנות\c#\chek\chek\bin\Debug\net6.0\chek.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\c#\chek\chek\bin\Debug\net6.0\chek.dll
+D:\Users\User\Desktop\תכנות\c#\chek\chek\bin\Debug\net6.0\chek.pdb
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.dll
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\refint\chek.dll
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.pdb
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\chek.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\c#\chek\chek\obj\Debug\net6.0\ref\chek.dll

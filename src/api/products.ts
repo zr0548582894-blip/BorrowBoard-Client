@@ -8,11 +8,10 @@ export const getProducts=async(filter:ProductFilters)=>  {
     return response.data.items
 }
 
-export const getMyProducts=async()=>  {
-    const response=await api.get<MyProduct[]>("/products/mine")
-    return response.data
-}
-
+export const getMyProducts = async () => {
+  const res = await api.get<MyProduct[]>("/products/mine");
+  return res.data;
+};
 export const getProductsById=async(id:number)=>  {
     const response=await api.get<ProductDetails>(`/products/${id}`)
     return response.data

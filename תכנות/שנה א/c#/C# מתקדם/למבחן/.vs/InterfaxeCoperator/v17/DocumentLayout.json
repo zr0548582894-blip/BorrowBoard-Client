@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|x:\\teachers for hitmachut\\stefansky\\\u05EA\u05E9\u05E4\u05D5\\oop\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\group3\\interfaxecoperator\\interfaxecoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|solutionrelative:interfaxecoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|x:\\teachers for hitmachut\\stefansky\\\u05EA\u05E9\u05E4\u05D5\\oop\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\group3\\interfaxecoperator\\interfaxecoperator\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|solutionrelative:interfaxecoperator\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|x:\\teachers for hitmachut\\stefansky\\\u05EA\u05E9\u05E4\u05D5\\oop\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\group3\\interfaxecoperator\\interfaxecoperator\\colorbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|solutionrelative:interfaxecoperator\\colorbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|x:\\teachers for hitmachut\\stefansky\\\u05EA\u05E9\u05E4\u05D5\\oop\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\group3\\interfaxecoperator\\interfaxecoperator\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|solutionrelative:interfaxecoperator\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|x:\\teachers for hitmachut\\stefansky\\\u05EA\u05E9\u05E4\u05D5\\oop\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\group3\\interfaxecoperator\\interfaxecoperator\\iwritetoobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|solutionrelative:interfaxecoperator\\iwritetoobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|x:\\teachers for hitmachut\\stefansky\\\u05EA\u05E9\u05E4\u05D5\\oop\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\group3\\interfaxecoperator\\interfaxecoperator\\classroomcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6A42-0B9B-4BC4-A86E-EADE35FDF18E}|InterfaxeCoperator\\InterfaxeCoperator.csproj|solutionrelative:interfaxecoperator\\classroomcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWriteToObject.cs",
+              "DocumentMoniker": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\IWriteToObject.cs",
+              "RelativeDocumentMoniker": "InterfaxeCoperator\\IWriteToObject.cs",
+              "ToolTip": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\IWriteToObject.cs",
+              "RelativeToolTip": "InterfaxeCoperator\\IWriteToObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:57:32.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassRoomComputer.cs",
+              "DocumentMoniker": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\ClassRoomComputer.cs",
+              "RelativeDocumentMoniker": "InterfaxeCoperator\\ClassRoomComputer.cs",
+              "ToolTip": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\ClassRoomComputer.cs",
+              "RelativeToolTip": "InterfaxeCoperator\\ClassRoomComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:27:21.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\Computer.cs",
+              "RelativeDocumentMoniker": "InterfaxeCoperator\\Computer.cs",
+              "ToolTip": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\Computer.cs",
+              "RelativeToolTip": "InterfaxeCoperator\\Computer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:25:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorBox.cs",
+              "DocumentMoniker": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\ColorBox.cs",
+              "RelativeDocumentMoniker": "InterfaxeCoperator\\ColorBox.cs",
+              "ToolTip": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\ColorBox.cs",
+              "RelativeToolTip": "InterfaxeCoperator\\ColorBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:01:23.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\Person.cs",
+              "RelativeDocumentMoniker": "InterfaxeCoperator\\Person.cs",
+              "ToolTip": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\Person.cs",
+              "RelativeToolTip": "InterfaxeCoperator\\Person.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:09:40.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaxeCoperator\\Program.cs",
+              "ToolTip": "X:\\teachers for hitmachut\\Stefansky\\\u05EA\u05E9\u05E4\u05D5\\OOP\\\u05DE\u05D7\u05E6\u05D9\u05EA \u05D1 \u05DE\u05D4\u05D5\u05E8\u05E9\u05D4 \u05D5\u05D0\u05D9\u05DC\u05DA\\Group3\\InterfaxeCoperator\\InterfaxeCoperator\\Program.cs",
+              "RelativeToolTip": "InterfaxeCoperator\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC0AAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:09:32.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

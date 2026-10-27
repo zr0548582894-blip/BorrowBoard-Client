@@ -45,3 +45,10 @@ export interface WantedItemFilters {
   page?: number;
   limit?: number;
 }
+export interface WantedItemCard {
+  id:number
+  name: string;
+  description: string;
+  imageUrl: string | null;
+  status: WantedItemStatus;
+}

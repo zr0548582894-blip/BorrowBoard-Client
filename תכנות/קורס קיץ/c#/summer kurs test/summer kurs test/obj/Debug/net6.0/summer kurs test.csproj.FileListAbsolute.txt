@@ -1,0 +1,45 @@
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.exe
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.deps.json
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.pdb
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\refint\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.pdb
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\summer kurs test\summer kurs test\obj\Debug\net6.0\ref\summer kurs test.dll
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.exe
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.deps.json
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.runtimeconfig.json
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.dll
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.pdb
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.AssemblyInfo.cs
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.dll
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\refint\summer kurs test.dll
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.pdb
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.genruntimeconfig.cache
+D:\Users\User\Desktop\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\ref\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.exe
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.deps.json
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\bin\Debug\net6.0\summer kurs test.pdb
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\refint\summer kurs test.dll
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.pdb
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\summer kurs test.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\קורס קיץ\summer kurs test\summer kurs test\obj\Debug\net6.0\ref\summer kurs test.dll

@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\bin\Debug\net6.0\lesson 2.exe
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\bin\Debug\net6.0\lesson 2.deps.json
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\bin\Debug\net6.0\lesson 2.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\bin\Debug\net6.0\lesson 2.dll
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\bin\Debug\net6.0\lesson 2.pdb
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.dll
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\refint\lesson 2.dll
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.pdb
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\lesson 2.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\c#\lesson 2\lesson 2\lesson 2\obj\Debug\net6.0\ref\lesson 2.dll

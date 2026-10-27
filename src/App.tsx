@@ -1,7 +1,7 @@
 
 import { Outlet } from 'react-router'
 import './App.css'
-import Header from './components/header'
+import Header from './components/header/header'
 
 function App() {
   
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
 
-     <div>app</div>
+
      <Header/>
      <Outlet/>
     </>

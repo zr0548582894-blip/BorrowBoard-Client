@@ -1,7 +1,15 @@
 import type { Box, DateString, DateTimeString } from './common';
 import type { ContactUser } from './user';
 
-export type BorrowRequestStatus = 'PENDING' | 'APPROVED' | 'REJECTED' | 'RETURNED' | 'CANCELLED';
+export const BORROW_REQUEST_STATUSES = [
+  "PENDING",
+  "APPROVED",
+  "REJECTED",
+  "RETURNED",
+  "CANCELLED",
+] as const;
+
+export type BorrowRequestStatus = (typeof BORROW_REQUEST_STATUSES)[number];
 
 export interface BorrowRequest {
   id: number;

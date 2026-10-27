@@ -1,0 +1,14 @@
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\bin\Debug\net8.0\InterfaxeCoperator.exe
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\bin\Debug\net8.0\InterfaxeCoperator.deps.json
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\bin\Debug\net8.0\InterfaxeCoperator.runtimeconfig.json
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\bin\Debug\net8.0\InterfaxeCoperator.dll
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\bin\Debug\net8.0\InterfaxeCoperator.pdb
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.GeneratedMSBuildEditorConfig.editorconfig
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.AssemblyInfoInputs.cache
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.AssemblyInfo.cs
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.csproj.CoreCompileInputs.cache
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.dll
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\refint\InterfaxeCoperator.dll
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.pdb
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\InterfaxeCoperator.genruntimeconfig.cache
+X:\teachers for hitmachut\Stefansky\תשפו\OOP\מחצית ב מהורשה ואילך\Group3\InterfaxeCoperator\InterfaxeCoperator\obj\Debug\net8.0\ref\InterfaxeCoperator.dll
