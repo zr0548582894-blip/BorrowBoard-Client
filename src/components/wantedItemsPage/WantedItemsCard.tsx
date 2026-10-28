@@ -8,9 +8,7 @@ const WantedItemsCard = (p: WantedItemCard) => {
     return<Link to={`/wanted/${p.id}`} className="card-3d group flex flex-col rounded-[1.75rem] border border-white/80 bg-cream/90 p-3 backdrop-blur-sm">
         <div className="card-media relative overflow-hidden rounded-[1.3rem] bg-[var(--accent-soft)]">
             <span aria-hidden className="absolute -right-5 -top-5 z-10 h-14 w-14 rounded-2xl bg-[var(--accent)] transition-transform duration-700 group-hover:rotate-45 group-hover:scale-110" />
-            {/* רקע מטושטש מאותה תמונה, כדי למלא את השוליים */}
-            <img aria-hidden src={imageSrc} alt="" className="absolute inset-0 h-full w-full scale-110 object-cover opacity-70 blur-xl" />
-            <img src={imageSrc} alt="" className="relative aspect-[16/10] w-full object-contain p-2 transition-transform duration-700 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:scale-[1.06]" />
+            <img src={imageSrc} alt="" className="aspect-square w-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:scale-[1.06]" />
         </div>
         <div className="card-body flex flex-1 flex-col px-2 pb-1 pt-4">
         <p className="font-display text-xl font-bold leading-tight text-ink">{p.name}</p>
