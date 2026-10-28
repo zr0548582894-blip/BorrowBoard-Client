@@ -33,12 +33,14 @@ const WantedItemDtails = () => {
     <main dir="rtl" className="min-h-screen bg-[#fbf7f2] px-4 py-8 sm:px-7 sm:py-12">
       <section className="mx-auto grid w-full max-w-5xl overflow-hidden rounded-3xl border border-[#eee3dc] bg-white shadow-sm md:grid-cols-2">
         {/* תמונה */}
-        <div className="relative bg-[#f6efe9]">
+        <div className="relative overflow-hidden bg-[#f6efe9]">
+          {/* רקע מטושטש מאותה תמונה, כדי למלא את השוליים */}
+          <img aria-hidden src={imageSrc} alt="" className="absolute inset-0 h-full w-full scale-110 object-cover opacity-70 blur-xl" />
           <img
             src={imageSrc}
             onError={(e) => { e.currentTarget.src = "/NO_IMG.jpg"; }}
             alt={data.title}
-            className="h-72 w-full bg-white object-contain p-6 md:h-full"
+            className="relative h-72 w-full object-contain p-6 md:h-full"
           />
           <span
             className={`absolute right-4 top-4 rounded-full px-3 py-1 text-xs font-bold shadow-sm ${
